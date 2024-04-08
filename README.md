@@ -25,7 +25,7 @@ This is a simple Todo application built with Node.js, Express.js, and PostgreSQL
 - Create a new database for the Todo app.
 - Update the database configuration in `config/db.js` with your PostgreSQL credentials.
 
-5. Run the migrations to create the necessary tables:
+5. Run the migrations to create the necessary tables: npm run migrate
 6. Start the server: npm start
 7. Visit `http://localhost:3000` in your browser to use the Todo app.
 
